@@ -1,0 +1,7 @@
+{
+  "name": "Agentic Honey-Pot",
+  "description": "An AI-powered Agentic Honey-Pot for scam detection, engagement, and intelligence extraction, simulated in a React chat application.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
